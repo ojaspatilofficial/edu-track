@@ -4,7 +4,20 @@ A full-stack platform for managing college final-year projects with AI-powered a
 
 ---
 ## Demo Link : https://edu-track-mauve-two.vercel.app/
+## Default Login Credentials
 
+All seeded users have the password: **`12345678`**
+
+| Role | Email | Department |
+|------|-------|-----------|
+| Admin | pawarsamarth786@gmail.com | All |
+| HOD | hod.entc@college.edu | ENTC |
+| HOD | hod.cse@college.edu | CSE |
+| Coordinator | coord.entc@college.edu | ENTC |
+| Guide | guide1.entc@college.edu | ENTC |
+| Student | student1.entc@college.edu | ENTC |
+
+---
 ## Tech Stack
 
 | Layer | Technology |
@@ -174,20 +187,7 @@ If using Ollama, make sure it's running (`ollama serve` or the Ollama desktop ap
 
 ---
 
-## Default Login Credentials
 
-All seeded users have the password: **`12345678`**
-
-| Role | Email | Department |
-|------|-------|-----------|
-| Admin | pawarsamarth786@gmail.com | All |
-| HOD | hod.entc@college.edu | ENTC |
-| HOD | hod.cse@college.edu | CSE |
-| Coordinator | coord.entc@college.edu | ENTC |
-| Guide | guide1.entc@college.edu | ENTC |
-| Student | student1.entc@college.edu | ENTC |
-
----
 
 ## Key Features by Role
 
