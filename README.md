@@ -3,6 +3,7 @@
 A full-stack platform for managing college final-year projects with AI-powered assistance. Supports multi-role access (Student, Guide, Coordinator, HOD, Admin) with features like group management, project reviews, email drafting, similarity checking, and a project showcase.
 
 ---
+## Demo Link : https://edu-track-mauve-two.vercel.app/
 
 ## Tech Stack
 
